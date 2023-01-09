@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Rust](https://img.shields.io/badge/Rust-D6A789?style=for-the-badge&logo=rust&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-4372A1?style=for-the-badge&logo=python&logoColor=white)
