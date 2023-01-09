@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Rust](https://img.shields.io/badge/Rust-D6A789?style=for-the-badge&logo=rust&logoColor=black)
+![Python](https://img.shields.io/badge/Python-4372A1?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 <!--
 **RedGradient/RedGradient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
